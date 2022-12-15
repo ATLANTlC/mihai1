@@ -39,5 +39,4 @@ system('clear');
 
 echo "\n";
 echo "\033[1;32mProcess Complete!\n";
-echo "\033[1;31mNow you can share any Youtube video with Termux\n";
 echo "\033[1;37m[\033[1;32m+\033[1;37m]\033[1;37m ==========[\033[1;33mMIHAIPRO\033[1;37m]==========\033[1;37m [\033[1;32m+\033[1;37m]\n\n";
